@@ -9,12 +9,13 @@
 <a name="Installation"></a>
 # Installation
 
-You need Anaconda distribution of python 3.* version. No additional libraries are required for this project because Anaconda has all the required libraries.
+One need Anaconda distribution of python 3.* version. There is no need of any additional libraries for this project because Anaconda has all the required libraries.
 
 <a name="Motivation"></a>
 # Motivation
 
-This project is the First Project of Data Scientist Nanodegree Program from Udacity. The goal is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). For this Project I have choosen the Seattle Airbnb dataset to get some useful insights. Following are the 3 questions I have looked in this dataset.
+This project is the First Project of Data Scientist Nanodegree Program from Udacity. The goal of the project is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). One can use his own datasets or the datasets provided at the 'Project Motivation and Details' Description.
+I have decided to use the Seattle Airbnb dataset to get some useful insights. Following are the 3 questions I have looked in this dataset.
 
 1. Analysis of room types, their percentages & price ranges.
 2. Analysis of month wise room availably and corresponding prices ranges to answer what time is best to visit Seattle.
@@ -49,4 +50,5 @@ Followings are the key findings:
 <a name="Acknowledgements"></a>
 # Acknowledgements
 
+Since this was my ever first project on github I have used some insights from [here](https://github.com/raziakhalidbutt/Seatle-Airbnb-CRISP-Udacity-project/blob/master/Seattle_airbnb_CRISP_project.ipynb)
 This dataset is part of Airbnb Inside, and the original source can be found [here](https://www.kaggle.com/airbnb/seattle)
