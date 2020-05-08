@@ -9,12 +9,12 @@
 <a name="Installation"></a>
 # Installation
 
-You need Anaconda distribution of python 3.* version. No additional libraries are required for this project.
+You need Anaconda distribution of python 3.* version. No additional libraries are required for this project because Anaconda has all the required libraries.
 
 <a name="Motivation"></a>
 # Motivation
 
-This project is part of Data Scientist Nanodegree Program from Udacity. The goal is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). For this Project I choose the Seattle Airbnb dataset to get some useful insights. Following are the 3 questions I looked in this dataset.
+This project is the First Project of Data Scientist Nanodegree Program from Udacity. The goal is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). For this Project I have choosen the Seattle Airbnb dataset to get some useful insights. Following are the 3 questions I have looked in this dataset.
 
 1. Analysis of room types, their percentages & price ranges.
 2. Analysis of month wise room availably and corresponding prices ranges to answer what time is best to visit Seattle.
@@ -28,7 +28,7 @@ There is one jupyter notebook file that answers the above questions. This file i
 **Seattle_airbnb_CRISP_project.ipynb**
 
 
-There are three dataset files of Seattle Airbnb dataset that is downloaded from Kaggle (https://www.kaggle.com/airbnb/seattle)
+There are three datasets files in Seattle Airbnb dataset that can be downloaded from Kaggle (https://www.kaggle.com/airbnb/seattle)
 
 * **listings.csv:** including full descriptions and average review score
 * **reviews.csv:** including unique id for each reviewer and detailed comments
@@ -44,7 +44,7 @@ Followings are the key findings:
 * Magnolia is the most expensive neighborhood
 * Ballard is among the top 3 in terms of Location and among the top 4 in terms of Ratings; surprisingly it one of the three least pricy neighborhoods.  
 
-You can find more in my [blog](https://medium.com/@raziakhalidbutt/a-look-into-seattle-airbnb-data-304263683050) 
+ 
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
