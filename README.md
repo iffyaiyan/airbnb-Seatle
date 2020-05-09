@@ -17,9 +17,9 @@ One need Anaconda distribution of python 3.* version. There is no need of any ad
 This project is the First Project of Data Scientist Nanodegree Program from Udacity. The goal of the project is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). One can use his own datasets or the datasets provided at the 'Project Motivation and Details' Description.
 I have decided to use the Seattle Airbnb dataset to get some useful insights. Following are the 3 questions I have looked in this dataset.
 
-1. Analysis of room types, their percentages & price ranges.
-2. Analysis of month wise room availably and corresponding prices ranges to answer what time is best to visit Seattle.
-3.Neighborhood price Analysis to see which is the priciest neighborhood and which one is the best to choose.
+1. How Price is affecting the number of beds that can be in a Hotel
+2. Best time to visit Seattle and Availability of room with price and time of the year
+3. Who are among the popular neighbourhood 
 
 <a name="FileDescription"></a>
 # File Description
@@ -40,15 +40,11 @@ There are three datasets files in Seattle Airbnb dataset that can be downloaded 
 
 Followings are the key findings:
 
-* Entire home/apt category is the priciest on Airbnb with average price of $155 per night. However, on the other hand they account for 67% of all the available properties on Airbnb. By looking into this information people with less family member or solo travelers with low budget should plan their bookings much advance. 
-* Most reviews are from the month of July, August and September which means people mostly visit Seattle in summer. It is interesting that although prices are higher in these months but still people prefer to visit Seattle during summer which is why higher demand increases prices. 
-* Magnolia is the most expensive neighborhood
-* Ballard is among the top 3 in terms of Location and among the top 4 in terms of Ratings; surprisingly it one of the three least pricy neighborhoods.  
-
+* There is a general tendency that a hotel having more no of beds are charging more money 
+* Most rooms are available in the month of December, March etc which mean less people are visiting Seattle during this time whereas a large no of reviews in the month of August, July and September indicates People are visiting Seattle during this time of the year.
+* Excluding "Other Neighbourhoods", most popular neighbourhoods are Downtown, Capital Hill and Central Area
  
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
-
-Since this was my ever first project on github I have used some insights from [here](https://github.com/raziakhalidbutt/Seatle-Airbnb-CRISP-Udacity-project/blob/master/Seattle_airbnb_CRISP_project.ipynb)
 This dataset is part of Airbnb Inside, and the original source can be found [here](https://www.kaggle.com/airbnb/seattle)
