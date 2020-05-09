@@ -48,5 +48,4 @@ One can find more in my [blog](https://medium.com/@mansuri4638/my-first-story-se
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
-This was my first project ever so I have taken some ideas from [here](https://raw.githubusercontent.com/raziakhalidbutt/Seatle-Airbnb-CRISP-Udacity-project/master/README.md)
 This dataset is part of Airbnb Inside, and the original source can be found [here](https://www.kaggle.com/airbnb/seattle)
