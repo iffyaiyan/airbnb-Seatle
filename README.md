@@ -40,7 +40,7 @@ There are three datasets files in Seattle Airbnb dataset that can be downloaded 
 
 Followings are the key findings:
 
-* There is a general tendency that a hotel having more no of beds are charging more money 
+* There is a general tendency that a hotel having more no of beds, bedrooms and bathrooms are charging more money 
 * Most rooms are available in the month of December, March etc which mean less people are visiting Seattle during this time whereas a large no of reviews in the month of August, July and September indicates People are visiting Seattle during this time of the year.
 * Excluding "Other Neighbourhoods", most popular neighbourhoods are Downtown, Capital Hill and Central Area
 
