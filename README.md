@@ -17,9 +17,9 @@ One need Anaconda distribution of python 3.* version. There is no need of any ad
 This project is the First Project of Data Scientist Nanodegree Program from Udacity. The goal of the project is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). One can use his own datasets or the datasets provided at the 'Project Motivation and Details' Description.
 I have decided to use the Seattle Airbnb dataset to get some useful insights. Following are the 3 questions I have looked in this dataset.
 
-1. How Price is affecting the number of beds, bedrooms and bathrooms that can be in a Hotel
-2. Best time to visit Seattle and Availability of room and early planning for the trip
-3. Who are among the popular neighbourhood 
+1. How Price is affecting the number of beds, bedrooms and bathrooms that can be in a Hotel.
+2. Best time to visit Seattle and Availability of room and early planning for the trip.
+3. Who are among the popular neighbourhood.
 
 <a name="FileDescription"></a>
 # File Description
